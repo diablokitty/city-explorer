@@ -1,18 +1,26 @@
 import React from 'react';
+import Header from './Header';
+import Main from './Main';
+import Footer from './Footer';
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
+class App extends React.Component{
 
-        <p>
-          PROOF OF LIFE
-        </p>
-
-      </header>
-    </div>
+  
+  render () { 
+  
+  return(
+  <>
+  <Header/> 
+  <Main/>
+  <Footer/>
+  </>
+  
+  
   );
-}
+  
+  }
+  }
+  
 
 export default App;
