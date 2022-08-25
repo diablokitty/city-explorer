@@ -3,7 +3,9 @@
 **Author**: Amy Pierce
 **Version**: 1.0.0
 
-WRRC 
+Lab 6 
+
+![WRRC]{/src/images/Lab06_WRRC_Diagram.png}
 
 ## Overview
 <!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for this class. (i.e. What's your problem domain?) -->
