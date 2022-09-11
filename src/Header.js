@@ -8,7 +8,7 @@ class Header extends React.Component{
   
   return(
   <>
-
+<p>City Explorer Project</p>
   </>
   
   
